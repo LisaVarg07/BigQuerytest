@@ -1,0 +1,2 @@
+SELECT * FROM `bigquery-public-data.census_bureau_acs.blockgroup_2011_5yr` LIMIT 1000
+WHERE geo_id
